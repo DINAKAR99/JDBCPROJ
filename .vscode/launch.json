@@ -1,0 +1,168 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DBDemoCommit",
+      "request": "launch",
+      "mainClass": "DBDemoCommit",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoSelectBinary",
+      "request": "launch",
+      "mainClass": "DBDemoSelectBinary",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoInsertBinary2",
+      "request": "launch",
+      "mainClass": "DBDemoInsertBinary2",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoInsertBinary",
+      "request": "launch",
+      "mainClass": "DBDemoInsertBinary",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoDataBaseMetaData",
+      "request": "launch",
+      "mainClass": "DBDemoDataBaseMetaData",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoInsertResultSet",
+      "request": "launch",
+      "mainClass": "DBDemoInsertResultSet",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoBatch",
+      "request": "launch",
+      "mainClass": "DBDemoBatch",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoCallGetSal",
+      "request": "launch",
+      "mainClass": "DBDemoCallGetSal",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoCreateGetSal",
+      "request": "launch",
+      "mainClass": "DBDemoCreateGetSal",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoCallAddNum",
+      "request": "launch",
+      "mainClass": "DBDemoCallAddNum",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoCreateAddNum",
+      "request": "launch",
+      "mainClass": "DBDemoCreateAddNum",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoPrepare",
+      "request": "launch",
+      "mainClass": "DBDemoPrepare",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoSelect2",
+      "request": "launch",
+      "mainClass": "DBDemoSelect2",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoResultSetMetadata",
+      "request": "launch",
+      "mainClass": "DBDemoResultSetMetadata",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoUpdate",
+      "request": "launch",
+      "mainClass": "DBDemoUpdate",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoDelete",
+      "request": "launch",
+      "mainClass": "DBDemoDelete",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemo",
+      "request": "launch",
+      "mainClass": "DBDemo",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemo2",
+      "request": "launch",
+      "mainClass": "DBDemo2",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoCreate",
+      "request": "launch",
+      "mainClass": "DBDemoCreate",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoInsert",
+      "request": "launch",
+      "mainClass": "DBDemoInsert",
+      "projectName": "JDBCPROJ_8f547e6d"
+    },
+    {
+      "type": "java",
+      "name": "DBDemoInsert2",
+      "request": "launch",
+      "mainClass": "DBDemoInsert2",
+      "projectName": "JDBCPROJ_8f547e6d"
+    }
+  ]
+}
